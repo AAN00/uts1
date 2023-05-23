@@ -1,4 +1,5 @@
-
+//Nama : Muhammad Raysa Farhan
+//Npm  : 227064516100
 package esay1;
 import java.util.Scanner;
 public class esay2 {
